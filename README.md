@@ -1,4 +1,5 @@
-Pragmatic Software Engineer with over 6 years of experience developing high-scale services, observability tooling, and infrastructure automation. Skilled in Azure, .NET, Kubernetes, and React. Currently leveraging AI tools to enhance developer productivity and improve service reliability.
+Software Engineer with 6 years of experience in distributed systems, observability, and cloud infrastructure. Interested in building AI-driven solutions for developer productivity and workflow automation.
 
 - 👨‍💻 Software Engineer II @ Microsoft
+- 🌐 Personal site: [zrich.dev](https://zrich.dev/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richardsonz)
